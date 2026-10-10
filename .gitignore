@@ -1,0 +1,5 @@
+# .gitignore
+.env
+*.secret.env
+*.pem
+*.key
